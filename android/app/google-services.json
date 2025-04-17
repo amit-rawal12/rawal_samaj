@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "17918757596",
+    "firebase_url": "https://portfolio-33dfd-default-rtdb.firebaseio.com",
+    "project_id": "portfolio-33dfd",
+    "storage_bucket": "portfolio-33dfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17918757596:android:bfce8eeb8ec0efc9658219",
+        "android_client_info": {
+          "package_name": "com.example.adminportfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2r1KpHOC6_-cB2acwPhWNnV8NJzHqCY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17918757596:android:3d95228ebc58c4c3658219",
+        "android_client_info": {
+          "package_name": "com.example.audioacademy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2r1KpHOC6_-cB2acwPhWNnV8NJzHqCY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17918757596:android:a3199d0db9853e40658219",
+        "android_client_info": {
+          "package_name": "com.example.hindu_janjagriti_umbegaon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2r1KpHOC6_-cB2acwPhWNnV8NJzHqCY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17918757596:android:b5080bd49d162b16658219",
+        "android_client_info": {
+          "package_name": "com.example.portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2r1KpHOC6_-cB2acwPhWNnV8NJzHqCY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17918757596:android:b4d25e12e1d013ca658219",
+        "android_client_info": {
+          "package_name": "com.example.rawal_metrimony"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2r1KpHOC6_-cB2acwPhWNnV8NJzHqCY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17918757596:android:a58174847dbd465f658219",
+        "android_client_info": {
+          "package_name": "com.example.rawal_samaj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2r1KpHOC6_-cB2acwPhWNnV8NJzHqCY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
